@@ -187,4 +187,9 @@ div.last
   {
     display: none;
   }
+  iframe.youtube
+  {
+    width:250px;
+    height:270px;
+  }
 }
